@@ -1,4 +1,4 @@
-const BASE_URI = 'http://localhost:8000/'
+const BASE_URI = 'http://0.0.0.0:3000/'
 const SESSION_ID = 'john'
 
 const sendMessage = async (endpoint, data) => {
